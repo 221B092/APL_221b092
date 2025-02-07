@@ -1,0 +1,4 @@
+interface Muteable
+{
+    void mute();
+}
